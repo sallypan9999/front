@@ -1,0 +1,1 @@
+@import url(https://unpkg.com/vue-pure-lightbox/dist/VuePureLightbox.css);.lightbox__image{display:flex;justify-content:center;align-items:center}.lightbox__image img{width:calc(100px + 20vw)}.lightbox__default-loader{display:none}
