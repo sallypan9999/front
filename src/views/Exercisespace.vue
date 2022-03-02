@@ -127,19 +127,19 @@ export default {
     }
 
     &.slide-1 {
-      background-image:url('../assets/images/環狀運動01.jpg');
+      background-image:url('~@/assets/images/環狀運動01.jpg');
     }
     &.slide-2 {
-      background-image:url('../assets/images/伸展區.jpg');
+      background-image:url('~@/assets/images/伸展區.jpg');
     }
     &.slide-3 {
-      background-image:url('../assets/images/更衣室.jpg');
+      background-image:url('~@/assets/images/更衣室.jpg');
     }
     &.slide-4 {
-      background-image:url('../assets/images/展示櫃.jpg');
+      background-image:url('~@/assets/images/展示櫃.jpg');
     }
     &.slide-5 {
-      background-image:url('../assets/images/置物櫃.jpg');
+      background-image:url('~@/assets/images/置物櫃.jpg');
     }
   }
 
