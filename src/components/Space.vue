@@ -17,7 +17,7 @@
 .mask{
   width: 100vw;
   height: 100vh;
-  background:url(../assets/images/環狀運動.jpg) no-repeat center/cover;
+  background:url(~@/assets/images/環狀運動.jpg) no-repeat center/cover;
   background-attachment: fixed;
   position: relative;
     .deck{
@@ -41,7 +41,7 @@
     .content{
       width: calc(200px + 8vw);
       height: calc(150px + 6vw);
-      background: url(../assets/images/space_title.png) no-repeat center/cover;
+      background: url(~@/assets/images/space_title.png) no-repeat center/cover;
       position: absolute;
       top: 35%;
       left: 12%;
@@ -61,7 +61,7 @@
             .sound{
               width:  calc(44px + 2vw);
               height:  calc(46px + 2vw);
-              background: url(../assets/images/voice.png) no-repeat center/cover;
+              background: url(~@/assets/images/voice.png) no-repeat center/cover;
               position: absolute;
               top: 0;
               left: 0;

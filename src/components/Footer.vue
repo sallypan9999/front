@@ -45,7 +45,7 @@
       .photo{
         width: 100%;
         height: calc(100px + 23vw);
-        background: url(../assets/images/教練.png) no-repeat center/cover;
+        background: url(~@/assets/images/教練.png) no-repeat center/cover;
       }
   }
   .content{

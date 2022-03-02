@@ -24,27 +24,27 @@ p{
   margin: auto;
 }
 .icon_1{
-  background: url(../assets/images/icons/30分.png) no-repeat center/cover;
+  background: url(~@/assets/images/icons/30分.png) no-repeat center/cover;
 }
 .icon_2{
-  background: url(../assets/images/icons/3in1.png) no-repeat center/cover;
+  background: url(~@/assets/images/icons/3in1.png) no-repeat center/cover;
 }
 .icon_3{
-  background: url(../assets/images/icons/定位.png) no-repeat center/cover;
+  background: url(~@/assets/images/icons/定位.png) no-repeat center/cover;
 }
 .icon_4{
-  background: url(../assets/images/icons/教練.png) no-repeat center/cover;
+  background: url(~@/assets/images/icons/教練.png) no-repeat center/cover;
 }
 .icon_5{
-  background: url(../assets/images/icons/運動.png) no-repeat center/cover;
+  background: url(~@/assets/images/icons/運動.png) no-repeat center/cover;
 }
 .icon_6{
-  background: url(../assets/images/icons/量身.png) no-repeat center/cover;
+  background: url(~@/assets/images/icons/量身.png) no-repeat center/cover;
 }
 .action_1{
   &:hover{
     .icon_1{
-      background: url(../assets/images/icons/30分_2.png) no-repeat center/cover;
+      background: url(~@/assets/images/icons/30分_2.png) no-repeat center/cover;
       transform: translateY(-30px);
     }
     p{
@@ -55,7 +55,7 @@ p{
 .action_2{
   &:hover{
     .icon_2{
-      background: url(../assets/images/icons/3in1_2.png) no-repeat center/cover;
+      background: url(~@/assets/images/icons/3in1_2.png) no-repeat center/cover;
       transform: translateY(-30px);
     }
     p{
@@ -66,7 +66,7 @@ p{
 .action_3{
   &:hover{
     .icon_3{
-      background: url(../assets/images/icons/定位_2.png) no-repeat center/cover;
+      background: url(~@/assets/images/icons/定位_2.png) no-repeat center/cover;
       transform: translateY(-30px);
     }
     p{
@@ -77,7 +77,7 @@ p{
 .action_4{
   &:hover{
     .icon_4{
-      background: url(../assets/images/icons/教練2.png) no-repeat center/cover;
+      background: url(~@/assets/images/icons/教練2.png) no-repeat center/cover;
       transform: translateY(-30px);
     }
     p{
@@ -88,7 +88,7 @@ p{
 .action_5{
   &:hover{
     .icon_5{
-      background: url(../assets/images/icons/運動_2.png) no-repeat center/cover;
+      background: url(~@/assets/images/icons/運動_2.png) no-repeat center/cover;
       transform: translateY(-30px);
     }
     p{
@@ -99,7 +99,7 @@ p{
 .action_6{
   &:hover{
     .icon_6{
-      background: url(../assets/images/icons/量身_2.png) no-repeat center/cover;
+      background: url(~@/assets/images/icons/量身_2.png) no-repeat center/cover;
       transform: translateY(-30px);
     }
     p{
