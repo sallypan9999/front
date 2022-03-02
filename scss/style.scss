@@ -1,0 +1,45 @@
+@import './mixins/rwd';
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;300;400;500;700;900&display=swap');
+
+html, body {
+  font-family: 'Noto Sans TC', sans-serif;
+  background-color: #fffef8;
+}
+#app{
+  overflow-x: hidden;
+  position: relative;
+  .logo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+  }
+  .nav-style{
+    background-color: rgb(40,174,147);
+    font-size: calc(8px + 1vw);
+  }
+  .navbar-light .navbar-nav .nav-link{
+    color: white;
+    &:hover{
+      color: rgb(244,155,78);
+      transition: 0.8s;
+    }
+  }
+}
+@media (max-width: 576px){
+  .logo{
+    width: 60px;
+  }
+}
+
+@media (min-width: 576px){
+  .logo{
+    width: 60px;
+  }
+}
+
+@media (min-width: 992px){
+  .logo{
+    width: 150px;
+  }
+}
